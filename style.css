@@ -28,14 +28,16 @@ a{
 }
 
 .profile{
-    padding-inline: 15px;
+    padding-inline: 16px;
     margin-inline: 8px;
-    margin-block: 15px;
+    margin-block: 14px;
     display: flex;
     align-items: center;
     justify-content: space-between;
     gap: 15px;
     transition: 300ms;
+
+    
 }
 
 .profile .pro1{
@@ -370,7 +372,8 @@ table td a{
     }
 
     #home p {
-        font-size: 14px;
+        font-size: 16px;
+        line-height: 27px;
     }
     
     .right{
@@ -386,9 +389,16 @@ table td a{
    }
 
    .pages{
+    background-color: #0c0a08;
+    position: absolute;
+    min-width: 90%;
     display: flex;
     align-items: start;
     justify-content: center;
+   }
+
+   .arrow{
+    display: none;
    }
 
    .left{
@@ -403,5 +413,19 @@ table td a{
     display: inline;
     border-radius: 1px;
 }
-   
+   .profile{
+    border-bottom: .4px solid rgb(39, 39, 39);
+   }
+
+   #home{
+    padding-top: 3px;
+    max-height: 900px;
+    /* border: 3px solid red; */
+    /* margin-bottom: 1000px; */
+
+}
+
+   .right{
+    scroll-snap-type: y mandatory;
+   }
 }
