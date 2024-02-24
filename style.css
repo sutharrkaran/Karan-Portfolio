@@ -306,6 +306,16 @@ table td a{
     /* border: 3px solid red; */
 }
 
+.posts{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.posts h1{
+    font-family: PT Mono;
+}
+
 .gallery{
     min-height: 100vh;
     display: flex;
