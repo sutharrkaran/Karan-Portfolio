@@ -419,7 +419,7 @@ table td a{
 
    #home{
     padding-top: 3px;
-    max-height: 900px;
+    min-height: 100vh;
     /* border: 3px solid red; */
     /* margin-bottom: 1000px; */
 
