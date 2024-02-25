@@ -486,4 +486,8 @@ table td a{
     scroll-snap-type: none;
    }
 
+   .gallery-container img{
+    max-width: 170px;
+   }
+
 }
