@@ -484,7 +484,7 @@ table td a{
 }
 
    .right{
-    scroll-snap-type: y proximity;
+    scroll-snap-type: none;
    }
 
 }
