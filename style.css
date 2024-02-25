@@ -475,7 +475,7 @@ table td a{
 
    #home{
     padding-top: 3px;
-    min-height: 100vh;
+    min-height: 100%;
     /* border: 3px solid red; */
     /* margin-bottom: 1000px; */
 
