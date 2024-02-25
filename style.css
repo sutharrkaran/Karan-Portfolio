@@ -36,8 +36,6 @@ a{
     justify-content: space-between;
     gap: 15px;
     transition: 300ms;
-
-    
 }
 
 .profile .pro1{
@@ -447,11 +445,12 @@ table td a{
    .pages{
     background-color: #0c0a08;
     position: absolute;
-    min-width: 90%;
+    min-width: 93%;
     display: flex;
     align-items: start;
     justify-content: center;
     z-index: 999;
+    /* transform: translateY(-20%); */
    }
 
    .arrow{
@@ -459,7 +458,7 @@ table td a{
    }
 
    .left{
-    flex: 0 0 105px;
+    flex: 0 0 107px;
    }
 
    .hide-show{
@@ -469,9 +468,14 @@ table td a{
    .ham{
     display: inline;
     border-radius: 1px;
+    width: 30px;
+    margin-bottom: 7px;
 }
    .profile{
     border-bottom: .4px solid rgb(39, 39, 39);
+    border: 2px solid rgb(39, 39, 39);
+    border-radius: 4px;
+    z-index: 9999;
    }
 
    #home{
@@ -489,8 +493,8 @@ table td a{
 
    .gallery-container img{
     max-width: 160px;
-   }
 
+   };
 }
 
 @media screen and (max-width: 380px){
