@@ -491,3 +491,9 @@ table td a{
    }
 
 }
+
+@media screen and (max-width: 370px){
+    .gallery-container img{
+        max-width: 130px;
+       }
+}
