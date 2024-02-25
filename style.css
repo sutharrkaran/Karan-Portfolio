@@ -487,12 +487,12 @@ table td a{
    }
 
    .gallery-container img{
-    max-width: 150px;
+    max-width: 160px;
    }
 
 }
 
-@media screen and (max-width: 370px){
+@media screen and (max-width: 380px){
     .gallery-container img{
         max-width: 130px;
        }
