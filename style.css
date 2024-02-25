@@ -483,8 +483,8 @@ table td a{
 
 }
 
-   /* .right{
+   .right{
     scroll-snap-type: y proximity;
-   } */
+   }
 
 }
