@@ -457,6 +457,11 @@ table td a{
     display: block;
     background-color: #0c0a08;
    }
+
+   .contact a{
+    font-size: 18px;
+    }
+
    .contact h1{
    display: none;
    }
