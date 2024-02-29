@@ -451,7 +451,17 @@ table td a{
     display: none;
    }
 
+   .contact{
+    z-index: 9999;
+    position: absolute;
+    display: block;
+    background-color: #0c0a08;
+   }
+   .contact h1{
+   display: none;
+   }
    .pages{
+    padding-top: 60px;
     background-color: #0c0a08;
     position: absolute;
     min-width: 93%;

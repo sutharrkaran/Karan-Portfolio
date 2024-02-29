@@ -4,3 +4,8 @@ document.querySelector(".ham").addEventListener("click" , function(){
     // document.querySelector(".ham").style.transform = 'rotate(180deg)';
 });
 
+document.querySelector(".ham").addEventListener("click" , function(){
+    document.querySelector(".contact").classList.toggle("hide-show");
+    // document.querySelector(".left").style.flex = " 0 0 360px";
+    // document.querySelector(".ham").style.transform = 'rotate(180deg)';
+});
