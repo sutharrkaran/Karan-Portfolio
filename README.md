@@ -7,5 +7,6 @@
 
 <h6>Mobile view</h6>
 
-![Screenshot_20240306_101258](https://github.com/sutharrkaran/Karan-Portfolio/assets/88020546/bdc4ef54-0884-41d8-8a30-209564d1a2a6)
+![Screenshot_20240307-102135_Chrome](https://github.com/sutharrkaran/Karan-Portfolio/assets/88020546/bdc4ef54-0884-41d8-8a30-209564d1a2a6)
+
 
